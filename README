@@ -1,0 +1,17 @@
+The main goal of this framework is to provide a solid base for all of your front-end projects. It will help you go through the initial steps	of creating a master template quickly, without having to worry about browser rendering issues for certain elements, including numerous JavaScript plugins to perform simple tasks or even worry about CSS naming conventions.
+
+Why use Easy?
+
+Easy is more than a CSS framework designed for building layouts. It includes built-in (jQuery powered) interactive functions that are so easy to use that you really don't have to know first thing about JavaScript. It also includes a library of preformatted and precoded CSS/HTML content blocks that you can simply paste into your master template. With a way of file organization it allow you to easily create your own content blocks. To sum it up Easy includes:
+
+Solid CSS base in terms of HTML element styles and layout construction
+Built-in interactive functions, extremely easy to use
+Upgradeable HTML content blocks library
+Easy is rock-solid, true all-in-one front-end solution that you can easily use as it is or customize to fit your own needs.
+
+Getting to know Easy
+
+In order to use any framework you need to get familiar with it. Only then can you tell if something is good for you or not. 
+I suggest watching the screencast, reading documentation and taking a look at the demo files.
+
+You can also schedule a 1-on-1 live session that will guide you through this framework and let you master it within 1 hour.
